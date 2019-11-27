@@ -10,4 +10,6 @@ This list contains quality references on metamorphic testing for software and ma
 
 ### Software
 
+- [Metamorphic Testing of RESTful Web APIs](http://www.lsi.us.es/~segura/files/papers/segura17-tse.pdf) - Sergio Segura, Jose A. Parejo, Javier Troya, and Antonio Ruiz-Cort´es
+
 ### Machine Learning
