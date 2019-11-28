@@ -18,3 +18,7 @@ Two nice write-ups on Metamorphic Testing in the form of blog post are [Metamorp
 ### Machine Learning
 
 - [Properties of Machine Learning Applications for Use in Metamorphic Testing](https://pdfs.semanticscholar.org/8b12/c5fd003efd52b798235d97a89a9c91dfd666.pdf) - Christian Murphy, Gail Kaiser and Lifeng Hu, 2008.
+
+### Other Domains
+
+ - [An innovative approach for testing bioinformatics programs using metamorphic testing](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-24) - Tsong Yueh Chen, Joshua WK Ho, Huai Liu and Xiaoyuan Xie, 2009.
