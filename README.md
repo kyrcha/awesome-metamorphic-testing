@@ -1,6 +1,6 @@
 # awesome-metamorphic-testing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This list contains quality references on metamorphic testing for software and machine learning.
+This list contains quality references on metamorphic testing for software and machine learning. Two nice write-ups on Metamorphic Testing in the form of blog post are [Metamorphic Testing](https://www.hillelwayne.com/post/metamorphic-testing/) and [Test your Machine Learning Algorithm with Metamorphic Testing](https://medium.com/trustableai/testing-ai-with-metamorphic-testing-61d690001f5c).
 
 ## Papers
 
