@@ -11,6 +11,7 @@ Two nice write-ups on Metamorphic Testing in the form of blog post are [Metamorp
 - [Metamorphic Testing: A New Approach for Generating Next Test Cases](https://www.cse.ust.hk/~scc/publ/CS98-01-metamorphictesting.pdf) - T. Y. Chen, S. C. Cheung and S. M. Yiu, 1998.
 - [A Survey on Metamorphic Testing](http://www.cs.ecu.edu/reu/reufiles/read/metamorphicTesting-16.pdf) - Sergio Segura, Gordon Fraser, Ana B. Sanchez, and Antonio Ruiz-Cortes, 2016.
 - [Metamorphic Testing: A Review of Challenges and Opportunities](http://eprints.nottingham.ac.uk/51607/1/__MTChallOpporCSUR.accepted.20170922.pdf) - Tsong Yueh Chen, Fei-Ching Kuo, Huai Liu, Pak-Lok Poon, Dave Towey, T. H. Tse and Zhi Quan Zhou, 2017.
+- [Performance Metamorphic Testing: A Proof of Concept](http://www.lsi.us.es/~jtroya/publications/IST18_preprint.pdf) - Sergio Segura, Javier Troya, Amador Duran and Antonio Ruiz-Cortes, 2018.
 
 ### Software
 
