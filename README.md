@@ -16,6 +16,7 @@ Two nice write-ups on Metamorphic Testing in the form of blog post are [Metamorp
 ### Software
 
 - [Metamorphic Testing of RESTful Web APIs](http://www.lsi.us.es/~segura/files/papers/segura17-tse.pdf) - Sergio Segura, Jose A. Parejo, Javier Troya, and Antonio Ruiz-Cortes, 2017.
+- [Automated Testing of Graphics Shader Compilers](http://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2017/OOPSLA.pdf) - Alastair F. Donaldson, Hugues Evrard, Andrei Lascu, and Paul Thomson, 2017.
 
 ### Machine Learning
 
