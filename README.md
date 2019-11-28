@@ -20,6 +20,7 @@ Two nice write-ups on Metamorphic Testing in the form of blog post are [Metamorp
 ### Machine Learning
 
 - [Properties of Machine Learning Applications for Use in Metamorphic Testing](https://pdfs.semanticscholar.org/8b12/c5fd003efd52b798235d97a89a9c91dfd666.pdf) - Christian Murphy, Gail Kaiser and Lifeng Hu, 2008.
+- [METTLE: a METamorphic Testing approach to assessing and validating unsupervised machine LEarning systems](https://arxiv.org/abs/1807.10453) - Xiaoyuan Xie, Zhiyi Zhang, Tsong Yueh Chen, Yang Liu, Pak-Lok Poon and Baowen Xu, 2019.
 
 ### Other Domains
 
