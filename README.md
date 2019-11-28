@@ -23,3 +23,5 @@ Two nice write-ups on Metamorphic Testing in the form of blog post are [Metamorp
 ### Other Domains
 
  - [An innovative approach for testing bioinformatics programs using metamorphic testing](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-24) - Tsong Yueh Chen, Joshua WK Ho, Huai Liu and Xiaoyuan Xie, 2009.
+ - [A metamorphic testing approach for event
+sequences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6380623/pdf/pone.0212476.pdf) - Jing Chen, Yinglong Wang, Ying Guo, and Mingyue Jiang3, 2019.
