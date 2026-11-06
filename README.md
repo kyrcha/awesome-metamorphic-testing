@@ -24,6 +24,8 @@ Two nice write-ups on Metamorphic Testing in the form of blog posts are [Metamor
 - [DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars](https://arxiv.org/abs/1708.08559) - Yuchi Tian, Kexin Pei, Suman Jana and Baishakhi Ray, 2018.
 - [METTLE: a METamorphic Testing approach to assessing and validating unsupervised machine LEarning systems](https://arxiv.org/abs/1807.10453) - Xiaoyuan Xie, Zhiyi Zhang, Tsong Yueh Chen, Yang Liu, Pak-Lok Poon and Baowen Xu, 2019.
 
+- [Consistency Is Not Understanding: Orbit Audits for Neural Field Weight Readers](https://arxiv.org/abs/2611.05798) - Sungguk Cha, Mintae Kim, Youngsub Han, Byoung-Ki Jeon, Sangyeob Lee, 2026 (preprint). Tests neural-field weight readers using function-preserving neuron permutations and positive ReLU rescalings.
+
 ### Other Domains
 
  - [An innovative approach for testing bioinformatics programs using metamorphic testing](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-24) - Tsong Yueh Chen, Joshua WK Ho, Huai Liu and Xiaoyuan Xie, 2009.
